@@ -1,0 +1,60 @@
+
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 40px;
+    text-decoration-line: underline;
+    text-decoration-color:red;
+    background-color: aqua;
+    
+}
+.main{
+
+    /* border: px solid black; */
+    height: 300px;
+    width: 500px;
+    position: relative;
+    top: 100px;
+    left: 200px;
+   
+}
+.main .one{
+    border: 2px solid black;
+    height: 100px;
+    background-color: orange;
+}
+.second{
+    border: 1px solid black;
+    height: 100px;
+    background-color: white
+
+}
+.third{
+    border: 1px solid black;
+    height: 100px;
+    background-color:green
+
+}
+.fourth{
+    
+    border: 1px solid black;
+    background-color: rgb(75, 53, 53);
+    height: 170px;
+    width: 10px;
+    
+    position: relative;
+    bottom: 25%;
+    top: 0px;
+   
+    
+}
+.as{
+    border-radius: 100%;
+    position: relative;
+    left: 35%;
+    
+    bottom: 25%;
+}
+body{
+    background-color:azure;
+}
